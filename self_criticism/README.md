@@ -117,3 +117,35 @@ None
 
 
 
+前几天考试，计划被打乱…今日继续！
+
+### 12/21
+
+- [x] English words
+- [x] english reading
+- [ ] english speaking
+- [ ] english listening
+- [x] machine learning
+- [x] fuzz thesis
+- [ ] project thesis
+- [x] acurricular homework
+
+### 12/22
+
+- [ ] English words
+- [ ] Teofl reading 
+- [ ] Teofl listening
+- [ ] Teofl speaking
+- [x] OS homework
+- [x] Acurricular project
+
+### 12/23
+
+- [x] English words
+- [x] Teofl reading 
+- [x] Teofl listening
+- [ ] Teofl speaking
+- [x] Acurricular project
+- [x] Project thesis
+- [x] Study Machine Learning
+- [ ] Deep Learning Coding
