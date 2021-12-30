@@ -148,4 +148,25 @@ None
 - [x] Acurricular project
 - [x] Project thesis
 - [x] Study Machine Learning
-- [ ] Deep Learning Coding
+- [x] Deep Learning Coding
+
+### 12/24
+
+- [ ] English words
+- [ ] Teofl reading
+- [ ] Teofl composition 
+- [x] English listening
+- [ ] Teofl speaking
+- [x] Deep Learning Codeing
+- [ ] Project thesis
+- [ ] Software Security Exp
+
+### 12/26
+
+- [x] English words
+- [x] Teofl composition
+- [ ] Software Security Exp
+- [x] 马原复习
+- [x] Deep Learning
+- [ ] PPT可信计算系统
+- [x] 软件安全报告
